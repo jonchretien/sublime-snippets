@@ -1,4 +1,4 @@
 sublime-settings
 ================
 
-My user settings for Sublime Text 2
+My snippets and user preferences for Sublime Text 2
