@@ -25,7 +25,7 @@ var myFeature = {
       }
 
       // cache DOM references
-      this.el = document.getElementByID(this.defaults.el);
+      this.el = document.getElementById(this.defaults.el);
 
       this.run();
     },

@@ -27,7 +27,7 @@ MyClass.prototype.init = function(options) {
   }
 
   // cache DOM references
-  this.el = document.getElementByID(defaults.el);
+  this.el = document.getElementById(defaults.el);
 
   this.run();
 };
