@@ -1,8 +1,16 @@
 {
-	"auto_upgrade_last_run": null,
-	"installed_packages":
-	[
-		"AdvancedNewFile",
-		"Package Control"
-	]
+  "auto_upgrade_last_run": null,
+  "installed_dependencies":
+  [
+    "0_package_control_loader",
+    "bz2"
+  ],
+  "installed_packages":
+  [
+    "AdvancedNewFile",
+    "Emmet",
+    "Markdown Preview",
+    "MarkdownEditing",
+    "Package Control"
+  ]
 }

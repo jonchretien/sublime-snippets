@@ -1,10 +1,13 @@
 {
+	"bold_folder_labels": true,
 	"draw_white_space": "selection",
-	"font_size": 15.0,
+	"font_size": 22.0,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"AdvancedNewFile"
 	],
 	"save_on_focus_lost": true,
 	"soda_classic_tabs": true,
